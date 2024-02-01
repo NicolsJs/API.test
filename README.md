@@ -1,6 +1,6 @@
 <h1>Consumo de uma API</h1>
 
-<h4>API´S é algo bem util na vida de um programador, por isso a importância em aprender como utilizar desta ferramenta. E resolvi aprender fazendo esse simples teste </h4>
+<h4>API´S é algo bem util na vida de um programador, por isso a importância em aprender como utilizar desta ferramenta. E para entender mais deste assunto, resolvi aprender fazendo esse simples teste</h4>
 
 <h3>MAS O QUE É UMA API?</h3> 
 
